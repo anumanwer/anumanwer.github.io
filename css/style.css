@@ -1,0 +1,10 @@
+body {
+  background-color: red;
+  color: green;
+  font-family: 'Quicksand', sans-serif;
+}
+
+.logo {
+border-radius: 50%;
+
+}
